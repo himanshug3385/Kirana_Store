@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/kirana_store?useSSL=false
+    username: root
+    password: Yout Password
+
+
+#JPA Settings
+
+  jpa.hibernate.ddl_auto: create
